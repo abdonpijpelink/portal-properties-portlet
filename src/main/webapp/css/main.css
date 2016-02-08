@@ -1,0 +1,14 @@
+.portal-properties-portlet 
+{
+	.lfr-textarea
+	{
+		max-width: none;
+		width: 100%;
+		-webkit-box-sizing: border-box;
+       	-moz-box-sizing: border-box;
+        box-sizing: border-box;
+		min-height: 400px;
+		font-family: monospace;
+		background-color: #f8f8f8;
+	}
+}	
